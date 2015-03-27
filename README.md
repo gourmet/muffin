@@ -21,7 +21,7 @@ try it; but in most cases, stick to this one.
 ## Usage
 
 ```
-composer require --dev gourmet/muffin:dev-master
+composer require --dev gourmet/muffin:~0.1
 ```
 
 No need to load it in `bootstrap.php`.
